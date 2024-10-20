@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lraizyuur
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on Rust community.
 - ⚡ Fun fact: Competitive programming ,Indie development ,kaggle
 
 <!---
